@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664123666593",
+    "project_id": "moreglobe-6d79f",
+    "storage_bucket": "moreglobe-6d79f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664123666593:android:234fdc22c42e574e0fc0e0",
+        "android_client_info": {
+          "package_name": "com.creatiwa.moreglobe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664123666593-67tdbpvl3bhsg1a1uobjce8mjns1jfe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzWpMImHFmtOKJd4LFdaPwyeOWNpuagY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664123666593-67tdbpvl3bhsg1a1uobjce8mjns1jfe8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
